@@ -43,6 +43,7 @@ I have worked on large projects involving various technologies across the stack 
 
 💬 Get in touch:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushenk/)
-[![Email✉️](mailto:su@sushen.dev)]
-![github stats](https://github-readme-stats.vercel.app/api?username=nehsus&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
+ - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushenk/)
+
+
+ ![github stats](https://github-readme-stats.vercel.app/api?username=nehsus&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
