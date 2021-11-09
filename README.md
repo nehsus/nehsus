@@ -10,6 +10,7 @@ I have worked on large projects involving various technologies across the stack 
 | [AKKA Actor Applications](https://github.com/nehsus/akka) at UIC| Scala           | Lead Developer     | Aug 2021 -     |
 | n-Gram/LSTM Music Generation at UIC  | Python           | Lead Developer     | Aug 2021 -     |
 | [Portfolio](https://www.sushen.dev/)            | React          | Architect          | May 2021       |
+| [Covid Vaccine Booker - India](https://github.com/nehsus/CowinBooker)            | Android          | Architect          | May 2021       |
 | National Park RPG at UIC                         | Java        | Lead developer     | Jan - May 2021 |
 | getTHIS - content distribution at UIC            | Java        | Architect     | Jan - May 2021 |
 | [Glark](https://github.com/nehsus/glark) - webhook for LarkSuite | Go        | Architect     | Mar 2020 |
