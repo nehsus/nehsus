@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I have worked on large projects involving various technologies across the stack such as Go (Gin-Gonic), Java, Python, AKKA, and also in DevOps (Docker, Kubernetes, Helm, etc.) I believe technology to be a tool and there's the right tool for the product I am building.
+I have worked on large projects involving various technologies across the stack such as Go (Gin-Gonic), Java, Python, Scala (AKKA), and also in DevOps (Docker, Kubernetes, Helm, etc.) I believe technology to be a tool and there's the right tool for the product I am building.
 
 <details>
   <summary>🔭 Projects</summary>
