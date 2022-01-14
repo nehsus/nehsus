@@ -1,14 +1,14 @@
 ### Hi there! 👋
 
-I have worked on large projects involving various technologies across the stack such as Go (Gin-Gonic), Java, Python, Scala (AKKA), and also in DevOps (Docker, Kubernetes, Helm, etc.) I believe technology to be a tool and there's the right tool for the product I am building.
+I have worked on large projects involving various technologies across the stack such as Go (Gin), Java, Python, Scala (AKKA), and also in DevOps at scale (Docker, Kubernetes, Helm, etc.) I believe technology to be a tool and there's the right tool for the product I am building.
 
 <details>
   <summary>🔭 Projects</summary>
 
 | Project                                         | Tech          | Role               | Date           | 
 | ----------------------------------------------- | ------------- | ------------------ | -------------- |
-| [AKKA Actor Applications](https://github.com/nehsus/akka) at UIC| Scala           | Lead Developer     | Aug 2021 -     |
-| n-Gram/LSTM Music Generation at UIC  | Python           | Lead Developer     | Aug 2021 -     |
+| [AKKA Actor Secrets](https://github.com/nehsus/akkio) at UIC| Scala           | Lead Developer     | Oct - Dec 2021     |
+| [Course Evaluator](https://github.com/nehsus/helpmepass) (nltk/vader semantic analysis) at UIC  | Python           | Lead Developer     | Aug - Dec 2021    |
 | [Portfolio](https://www.sushen.dev/)            | React          | Architect          | May 2021       |
 | [Covid Vaccine Booker - India](https://github.com/nehsus/CowinBooker)            | Android          | Architect          | May 2021       |
 | National Park RPG at UIC                         | Java        | Lead developer     | Jan - May 2021 |
