@@ -1,6 +1,6 @@
 ### Hi there!
 
-I have worked on large projects across the stack such as Go (Gin), AKKA (Java), Python, and also in Infra (Go/Docker/K8s/AWS/SQL) 
+I have worked on large projects across the stack such as Go (Gin), AKKA (Java), Python, and also in Infra (Go/Docker/K8s/AWS/SQL). My core competencies include Go, gRPC, GCP, AWS Infrastructure, and reliability domain expertise.
 
 <details>
   <summary>🔭 Projects</summary>
