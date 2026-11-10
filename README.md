@@ -8,7 +8,6 @@ I have worked on large projects across the stack such as Go (Gin), AKKA (Java), 
 | Project                                         | Tech          | Role               | Date           | 
 | ----------------------------------------------- | ------------- | ------------------ | -------------- |
 | [AKKA Actor Secrets](https://github.com/nehsus/akkio) at UIC| Scala           | Lead Developer     | Oct - Dec 2021     |
-| [Portfolio](https://www.sushen.dev/)            | React          | Architect          | May 2021       |
 | [Covid Vaccine Booker - India](https://github.com/nehsus/CowinBooker)            | Android          | Architect          | May 2021       |
 | National Park RPG at UIC                         | Java        | Lead developer     | Jan - May 2021 |
 | getTHIS - content distribution at UIC            | Java        | Architect     | Jan - May 2021 |
