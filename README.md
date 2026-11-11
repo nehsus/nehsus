@@ -1,34 +1,11 @@
 ### Hi there!
+As a Software Engineer with 5+ years of hands-on experience, I design, develop, and deliver robust solutions across audio streaming, speech, and cross-platform application domains.
 
-I have worked on large projects across the stack such as Go (Gin), AKKA (Java), Python, and also in Infra (Go/Docker/K8s/AWS/SQL). My core competencies include Go, gRPC, GCP, AWS Infrastructure, and reliability domain expertise.
+My work spans real-time audio and speech processing, bidirectional streaming, near-real-time language translation, ML Inference (from orchestration to capacity planning, quantization, parameter tuning, model evaluation, and infrastructure on Azure/AWS/On-device, and containerization)
 
-<details>
-  <summary>🔭 Projects</summary>
+Before my current role at Sanas.ai, I contributed to Google Cloud’s Reliability Infrastructure in San Francisco and have launched multiple early-stage startups as a Founding engineer.
 
-| Project                                         | Tech          | Role               | Date           | 
-| ----------------------------------------------- | ------------- | ------------------ | -------------- |
-| [AKKA Actor Secrets](https://github.com/nehsus/akkio) at UIC| Scala           | Lead Developer     | Oct - Dec 2021     |
-| [Covid Vaccine Booker - India](https://github.com/nehsus/CowinBooker)            | Android          | Architect          | May 2021       |
-| National Park RPG at UIC                         | Java        | Lead developer     | Jan - May 2021 |
-| getTHIS - content distribution at UIC            | Java        | Architect     | Jan - May 2021 |
-| [Glark](https://github.com/nehsus/glark) - webhook for LarkSuite | Go        | Architect     | Mar 2020 |
-| learnAid - gamified learning platform            | Java        | Architect     | May 2019 |
-| [Voda](https://github.com/cseas/voda) - reimagined Vodafone U application           | React        | Developer     | Aug 2018 |
-| [Jeevan](https://github.com/nehsus/jeevan)         | C++        | Developer     | Feb 2018 |
-
-</details>
-
-<details>
-  <summary>🚀 Hackathons</summary>
-
-| Hack                                     | Award       |
-| -----------------------------------------| ----------- |
-| DELL Futurist, India - 2019              | Winner      |
-| Vodafone Ideathon, Bangalore - 2018      | Winner      |
-| IESA Makeathon, Bangalore - 2018         | Runner up   |
-| Sir MVIT Hack, Bangalore - 2017          | Winner      |
-
-</details>
+Feel free to reach out for a chat.
 
 💬 Get in touch:
 
